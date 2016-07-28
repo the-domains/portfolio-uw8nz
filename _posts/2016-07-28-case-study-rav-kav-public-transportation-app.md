@@ -1,15 +1,6 @@
 ---
-author:
-  - name: Avraham Raskin
-    url: null
-    avatar: {}
-related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: >-
-    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
-  domain: medium.com
+datePublished: '2016-07-28T17:44:05.329Z'
+sourcePath: _posts/2016-07-28-case-study-rav-kav-public-transportation-app.md
 keywords:
   - ticket
   - card
@@ -21,12 +12,14 @@ keywords:
   - plastic
   - systems
   - stores
-description: >-
-  and public transportation apps around the world Public transportation systems
-  around the world have been issuing fancy new plastic cards that store all your
-  fares, and getting rid of the old paper tickets, and Israel is no different.
-  'Rav Kav' is the system used in Israel.
-inLanguage: en
+related: []
+author:
+  - name: Avraham Raskin
+    url: null
+    avatar: {}
+via: {}
+dateModified: '2016-07-28T17:44:04.728Z'
+title: 'Case Study: Rav Kav Public Transportation App'
 app_links:
   - type: android
     namespace: ai
@@ -52,18 +45,26 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-title: 'Case Study: Rav Kav Public Transportation App'
-datePublished: '2016-07-28T17:38:37.249Z'
-dateModified: '2016-07-28T17:38:37.090Z'
-via: {}
-sourcePath: _posts/2016-07-28-case-study-rav-kav-public-transportation-app.md
+publisher:
+  url: 'https://medium.com'
+  name: Medium
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
+  domain: medium.com
+description: >-
+  Public transportation systems around the world have been issuing fancy new
+  plastic cards that store all your fares, and getting rid of the old paper
+  tickets, and Israel is no different. 'Rav Kav' is the system used in Israel.
+inLanguage: en
 starred: false
 inFeed: true
 hasPage: true
 inNav: false
 url: case-study-rav-kav-public-transportation-app/index.html
-_type: Article
 _context: 'http://schema.org'
+_type: Article
 
 ---
-<article style=""><h1>Case Study: Rav Kav Public Transportation App</h1><p>and public transportation apps around the world Public transportation systems around the world have been issuing fancy new plastic cards that store all your fares, and getting rid of the old paper tickets, and Israel is no different. 'Rav Kav' is the system used in Israel.</p><img src="https://cdn-images-1.medium.com/max/2000/1*MvxoZZioULjQ0K1jIHp8vw.jpeg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ad547d937ba48d374509c2721554cc5/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*MvxoZZioULjQ0K1jIHp8vw.jpeg" /><h1>Case Study: Rav Kav Public Transportation App</h1><p>Public transportation systems around the world have been issuing fancy new plastic cards that store all your fares, and getting rid of the old paper tickets, and Israel is no different. 'Rav Kav' is the system used in Israel.</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f88be0e-2d4f-4b16-abca-c6df214bf233.png)
