@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Avraham Raskin]]></title>
+        <description><![CDATA[Avraham Raskin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jul 2016 17:39:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Case Study: Rav Kav Public Transportation App]]></title>
+            <description><![CDATA[<article><h1>Case Study: Rav Kav Public Transportation App</h1><p>and public transportation apps around the world Public transportation systems around the world have been issuing fancy new plastic cards that store all your fares, and getting rid of the old paper tickets, and Israel is no different. 'Rav Kav' is the system used in Israel.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ad547d937ba48d374509c2721554cc5/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*MvxoZZioULjQ0K1jIHp8vw.jpeg"></article>]]></description>
+            <link>undefinedcase-study-rav-kav-public-transportation-app/index.html</link>
+            <guid isPermaLink="false">983f0554-cbeb-47cd-b35b-7efd84e2ff07</guid>
+            <pubDate>Thu, 28 Jul 2016 17:38:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
