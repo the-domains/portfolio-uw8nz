@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Avraham Raskin]]></title>
         <description><![CDATA[Avraham Raskin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/portfolio-uw8nz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 17:39:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 17:44:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/portfolio-uw8nz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Case Study: Rav Kav Public Transportation App]]></title>
-            <description><![CDATA[<article><h1>Case Study: Rav Kav Public Transportation App</h1><p>and public transportation apps around the world Public transportation systems around the world have been issuing fancy new plastic cards that store all your fares, and getting rid of the old paper tickets, and Israel is no different. 'Rav Kav' is the system used in Israel.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ad547d937ba48d374509c2721554cc5/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*MvxoZZioULjQ0K1jIHp8vw.jpeg"></article>]]></description>
-            <link>undefinedcase-study-rav-kav-public-transportation-app/index.html</link>
+            <description><![CDATA[<article><h1>Case Study: Rav Kav Public Transportation App</h1><p>Public transportation systems around the world have been issuing fancy new plastic cards that store all your fares, and getting rid of the old paper tickets, and Israel is no different. 'Rav Kav' is the system used in Israel.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ad547d937ba48d374509c2721554cc5/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*MvxoZZioULjQ0K1jIHp8vw.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/portfolio-uw8nz/case-study-rav-kav-public-transportation-app/index.html</link>
             <guid isPermaLink="false">983f0554-cbeb-47cd-b35b-7efd84e2ff07</guid>
-            <pubDate>Thu, 28 Jul 2016 17:38:37 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 17:44:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
